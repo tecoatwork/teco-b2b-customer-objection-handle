@@ -1,5 +1,5 @@
 ---
-name: teco-customer-objection-handle
+name: teco-b2b-customer-objection-handle
 description: 分析B2B客户在报价、选型、供应商评估与谈判中提出的价格、MOQ、质量、交期、付款、适配和内部审批异议，结合L-C-R-A、岗位Meaning、证据与承诺边界，生成可发送回复和下一步方案。适用于具体异议处理、谈判准备和复盘，不替代普通开发或机械跟进。
 license: MIT
 ---

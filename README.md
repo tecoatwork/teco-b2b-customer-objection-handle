@@ -1,4 +1,4 @@
-# teco-customer-objection-handle
+# teco-b2b-customer-objection-handle
 
 B2B客户异议分析、回复与谈判准备。以客户原话和真实采购条件为起点，把“如何反驳客户”转成“如何确认障碍、提供证据、设计可执行选择”。
 
@@ -320,7 +320,7 @@ Meaning是业务结果对某个角色完成工作的意义，不是窥探心理�
 ## 使用Prompt
 
 ```text
-使用 $teco-customer-objection-handle，分析下面的B2B客户异议。
+使用 $teco-b2b-customer-objection-handle，分析下面的B2B客户异议。
 
 客户原话与最近往来：
 产品/方案与报价条件：
@@ -340,10 +340,10 @@ Meaning是业务结果对某个角色完成工作的意义，不是窥探心理�
 
 ## 安装与文件
 
-下载仓库ZIP，将其中的 `teco-customer-objection-handle` 文件夹放入宿主Skill目录，例如 `~/.codex/skills/`。同名目录已存在时先核对版本并按宿主要求审查，不盲目覆盖。也可在目标目录不存在时使用：
+下载仓库ZIP，将其中的 `teco-b2b-customer-objection-handle` 文件夹放入宿主Skill目录，例如 `~/.codex/skills/`。同名目录已存在时先核对版本并按宿主要求审查，不盲目覆盖。也可在目标目录不存在时使用：
 
 ```bash
-git clone https://github.com/tecoatwork/teco-customer-objection-handle.git ~/.codex/skills/teco-customer-objection-handle
+git clone https://github.com/tecoatwork/teco-b2b-customer-objection-handle.git ~/.codex/skills/teco-b2b-customer-objection-handle
 ```
 
 - `SKILL.md`：精简执行规则及按需读取入口。
